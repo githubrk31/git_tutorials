@@ -2,23 +2,23 @@ package package1;
 
 public class Class1 {
 	private String var1;
-	private String var6;
+	private String var;
 	private String var3;
 	
 	public void setVar1() {
 		var1 = "This is var 1";
 	}
 	
-	public void setVar6() {
-		var1 = "This is var 6";
+	public void setVar() {
+		var = "This is var";
 	}
 	
 	public String getVar1() {
 		return var1;
 	}
 	
-	public String getVar6() {
-		return var6;
+	public String getVar() {
+		return var;
 	}
 
 	public String getVar3() {
