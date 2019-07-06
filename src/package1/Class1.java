@@ -12,6 +12,7 @@ public class Class1 {
 	public void setVar() {
 		var = "This is a variable";
 		var = "This is also a variable";
+		var = "I am also a variable";
 	}
 	
 	public String getVar1() {
