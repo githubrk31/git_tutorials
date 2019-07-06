@@ -1,12 +1,12 @@
 package package1;
 
 public class Class1 {
-	private String var1;
+	private String name;
 	private String var;
 	private String var3;
 	
 	public void setVar1() {
-		var1 = "This is var 1";
+		name = "This is var 1";
 	}
 	
 	public void setVar() {
@@ -15,7 +15,7 @@ public class Class1 {
 	}
 	
 	public String getVar1() {
-		return var1;
+		return name;
 	}
 	
 	public String getVar() {
