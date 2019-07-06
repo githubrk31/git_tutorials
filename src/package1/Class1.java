@@ -10,7 +10,7 @@ public class Class1 {
 	}
 	
 	public void setVar() {
-		var = "This is var";
+		var = "This is a variable";
 	}
 	
 	public String getVar1() {
