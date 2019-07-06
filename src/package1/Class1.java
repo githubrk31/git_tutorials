@@ -13,6 +13,7 @@ public class Class1 {
 		var = "This is a variable";
 		var = "This is also a variable";
 		var = "I am also a variable";
+		var = "cheers to the branch";
 	}
 	
 	public String getVar1() {
